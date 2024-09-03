@@ -25,7 +25,7 @@ This data analysis project aims to provide:
 ### Tools
 
 - Excel: Data cleaning
-- SQL Server: Data analysis
+- SQL Server: Data cleaning, 
 - Power BI: Creating reports
 
 ### Data Cleaning
