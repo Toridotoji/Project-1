@@ -13,7 +13,12 @@
 
 ### Project Overview
 
-This data analysis project aims to provide 
+This data analysis project aims to provide:
+
+- Top-performing categories and products
+- Sales trends of different products
+- Sales performance evaluation 
+- Patterns in customer behavior: gender, age, location, payment type, shipping method
 
 ### Data Sources
 
