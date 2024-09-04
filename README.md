@@ -28,9 +28,8 @@ This data analysis project aims to provide:
 
 ### Tools
 
-- Excel: Data cleaning
-- SQL Server: Data cleaning, 
-- Power BI: Creating reports
+- SQL Server: Data cleaning, EDA analysis
+- Power BI: data visualization
 
 ### Data Cleaning
 
