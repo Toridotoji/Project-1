@@ -17,7 +17,11 @@ This data analysis project aims to provide:
 
 - Top-performing categories and products
 - Sales trends of different products
-- Sales performance evaluation 
+- Overview of sales performance:
+  - Total sales revenue
+  - Sales Reneue Growth Rate
+  - Sales revenue by product
+  - Average profit per transaction
 - Patterns in customer behavior: gender, age, location, payment type, shipping method
 
 ### Data Sources
