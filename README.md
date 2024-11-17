@@ -5,7 +5,7 @@
 - [Tổng quan dự án](#tổng-quan-dự-án)
 - [Mục tiêu](#mục-tiêu)
 - [Dữ liệu](#dữ-liệu)
-- [Phương pháp phân tích dữ liệu](#phương-pháp phân-tích-dữ-liệu)
+- [Phân tích dữ liệu](#phân-tích-dữ-liệu)
 - [Insights](#insights)
 - [Đề xuất](#đề-xuất)
 - [Tài liệu tham khảo](#tài-liệu-tham-khảo)
@@ -36,7 +36,7 @@ Dự án sử dụng database được cung cấp bởi Microsoft, tham khảo t
 
 Data model được mô tả như hình dưới đây:
 
-### Phương pháp phân tích dữ liệu
+### Phân tích dữ liệu
 Xem thêm tại file 
 
 ### Insights
