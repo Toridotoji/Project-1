@@ -37,7 +37,7 @@ Database diagram được mô tả như hình dưới đây:
 ![](https://github.com/Toridotoji/Project-1/blob/main/database%20diagram.png?raw=true)
 
 ### Phân tích dữ liệu
-Xem thêm tại file [Phương pháp phân tích dữ liệu](Project-1/
+Xem thêm tại file [Phương pháp phân tích dữ liệu](Project-1/Phương pháp phân tích dữ liệu)
 
 ### Insights
 
