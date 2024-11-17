@@ -24,17 +24,17 @@ Contoso là một tập đoàn bán lẻ đa quốc gia có trụ sở tại Par
 
 Dự án sử dụng database được cung cấp bởi Microsoft, tham khảo tại [đây](https://www.microsoft.com/en-us/download/details.aspx?id=18279). Vì bộ dữ liệu này bao gồm thông tin từ nhiều phòng ban trong doanh nghiệp như C-level, Sales/Marketing, IT, Finance... nên dự án sẽ chỉ tập trung vào các bảng sau:
 
-- **FactOnlineSales**: 
-- **DimDate**
-- **DimProduct**
-- **DimProductCategory**
-- **DimProductSubCategory**
-- **DimCustomer**
-- **DimPromotion**
-- **DimStore**
-- **DimGeography**
+- **FactOnlineSales**: lưu dữ liệu bán hàng về doanh thu, doanh số, chi phí, lượng hàng trả về và giá trị mặt hàng giảm giá cho mỗi giao dịch online
+- **DimDate**: mô tả thời gian diễn ra giao dịch theo năm, quý, tháng, tuần và ngày
+- **DimProduct**: thông tin về sản phẩm như nhà sản xuất, thương hiệu, đặc điểm bên ngoài và chi phí, giá bán cho mỗi sản phẩm
+- **DimProductCategory**: mô tả tên và key cho từng danh mục sản phẩm bao gồm: Audio, Computers, Cellphones...)
+- **DimProductSubCategory**: Phân loại sản phẩm con (được chia nhỏ hơn so với danh mục sản phẩm) bao gồm: Televisions, VCD&DVD, Accessories...
+- **DimCustomer**: thông tin nhân khẩu học của khách hàng (giới tính, thu nhập cả năm, học vấn, nghề nghiệp...) 
+- **DimPromotion**: chi tiết về từng loại giảm giá và mức giảm giá
+- **DimGeography**: thông tin địa lý theo từng quốc gia, từng vùng gắn với nơi khách hàng sinh sống
 
-Data model được mô tả như hình dưới đây:
+Database diagram được mô tả như hình dưới đây:
+
 
 ### Phân tích dữ liệu
 Xem thêm tại file 
