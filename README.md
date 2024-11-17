@@ -34,7 +34,7 @@ Dự án sử dụng database được cung cấp bởi Microsoft, tham khảo t
 - **DimGeography**: thông tin địa lý theo từng quốc gia, từng vùng gắn với nơi khách hàng sinh sống
 
 Database diagram được mô tả như hình dưới đây:
-
+![](https://github.com/Toridotoji/Project-1/blob/main/database%20diagram.png?raw=true)
 
 ### Phân tích dữ liệu
 Xem thêm tại file 
