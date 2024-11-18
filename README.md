@@ -1,4 +1,4 @@
-# Phân Tích Hiệu Suất Bán Hàng Online và Phân Khúc Khách Hàng của Contoso
+# Phân Tích Hiệu Suất Bán Hàng Online và Hành Vi Khách Hàng của Contoso
 
 ## Mục lục
 
