@@ -1,4 +1,4 @@
-# Phân Tích Hiệu Suất Bán Hàng Online và Hành Vi Khách Hàng của Contoso (2005 - 2011)
+# Phân Tích Hiệu Suất Bán Hàng Online của Contoso (2007 - 2009)
 
 ## Mục lục
 
@@ -18,7 +18,6 @@ Contoso là một tập đoàn bán lẻ đa quốc gia có trụ sở tại Par
 
 - Xác định những mặt hàng bán chạy và cơ hội để triển khai hoạt động upselling và cross-selling
 - Phân tích doanh thu, doanh số bán hàng online theo thời gian (2007-2009)
-- Phân khúc khách hàng theo nhân khẩu học và xác định tệp khách hàng mang lại giá trị cao.
 
 ### Dữ liệu
 
