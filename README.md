@@ -40,15 +40,23 @@ Xem thêm tại file [Phương pháp phân tích dữ liệu](https://github.com
 
 ### Insights
 
+## Tình hình kinh doanh
 Năm 2009, doanh thu và lợi nhuận ròng Contoso đạt được lần lượt là 857,73 triệu đô và 437,91 triệu đô.
 
 ![{8098E5FE-E2F8-472D-8700-CD092D98418B}](https://github.com/user-attachments/assets/1dc7d28d-0c14-4766-9afd-63d21da5dfdb)
 
 ![{9D3C5F3B-6F94-4A1D-BD14-114E0F87363A}](https://github.com/user-attachments/assets/2a857f71-399e-4c0d-be4e-4495ffed1351)
 
-![{D71B1CDF-63C0-47FC-8A10-DD8EC8626545}](https://github.com/user-attachments/assets/4f82d62d-2a8f-4aa2-97f4-0c2a5e6e830e)
+![{15166663-527F-4593-9D7F-1E6E8F82FCC0}](https://github.com/user-attachments/assets/f26e5d61-f256-4e22-bf93-a9aa9de149af)
 
+## Sản phẩm
 
+![{E6C6E53A-FC6F-4713-9816-0B26AAB19858}](https://github.com/user-attachments/assets/677fe477-1d6a-48ba-87ae-5894e3452cb1)
+
+**Phân tích theo nguyên tắc 80/20**
+Danh mục con này chủ yếu đến từ danh mục sản phẩm "Home Appliances"
+
+![{A1074CB3-0468-4BFF-8B89-485D6EA2AF3D}](https://github.com/user-attachments/assets/83ba22d2-8ee8-483d-9d62-0ff3f42c7122)
 
 
 ### Đề xuất
