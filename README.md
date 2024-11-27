@@ -40,6 +40,16 @@ Xem thêm tại file [Phương pháp phân tích dữ liệu](https://github.com
 
 ### Insights
 
+Năm 2009, doanh thu và lợi nhuận ròng Contoso đạt được lần lượt là 857,73 triệu đô và 437,91 triệu đô.
+
+![{8098E5FE-E2F8-472D-8700-CD092D98418B}](https://github.com/user-attachments/assets/1dc7d28d-0c14-4766-9afd-63d21da5dfdb)
+
+![{9D3C5F3B-6F94-4A1D-BD14-114E0F87363A}](https://github.com/user-attachments/assets/2a857f71-399e-4c0d-be4e-4495ffed1351)
+
+
+
+
+
 ### Đề xuất
 
 ### Tài liệu tham khảo
