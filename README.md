@@ -46,6 +46,7 @@ Năm 2009, doanh thu và lợi nhuận ròng Contoso đạt được lần lư�
 
 ![{9D3C5F3B-6F94-4A1D-BD14-114E0F87363A}](https://github.com/user-attachments/assets/2a857f71-399e-4c0d-be4e-4495ffed1351)
 
+![{D71B1CDF-63C0-47FC-8A10-DD8EC8626545}](https://github.com/user-attachments/assets/4f82d62d-2a8f-4aa2-97f4-0c2a5e6e830e)
 
 
 
