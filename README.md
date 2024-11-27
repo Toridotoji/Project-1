@@ -51,6 +51,8 @@ Năm 2009, doanh thu và lợi nhuận ròng Contoso đạt được lần lư�
 
 ## Sản phẩm
 
+Sản phẩm bán chạy nhất năm 2009 là Tủ lạnh LitWare 24.7CuFt X980 (màu nâu) với doanh thu là 3,12 triệu đô, trước đó vào năm 2008 sản phẩm này cũng đứng đầu sản phẩm bán chạy nhất (màu trắng) với doanh thu là 4 triệu đô.
+
 ![{E6C6E53A-FC6F-4713-9816-0B26AAB19858}](https://github.com/user-attachments/assets/677fe477-1d6a-48ba-87ae-5894e3452cb1)
 
 **Phân tích theo nguyên tắc 80/20**
