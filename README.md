@@ -16,8 +16,8 @@ Contoso là một tập đoàn bán lẻ đa quốc gia có trụ sở tại Par
 
 ### Mục tiêu
 
-- Xác định những mặt hàng bán chạy và cơ hội để triển khai hoạt động upselling và cross-selling
 - Phân tích doanh thu, doanh số bán hàng online theo thời gian (2007-2009)
+- Xác định những mặt hàng bán chạy và danh mục sản phẩm đóng góp lớn đến doanh thu
 
 ### Dữ liệu
 
