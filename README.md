@@ -28,7 +28,6 @@ Dự án sử dụng database được cung cấp bởi Microsoft, tham khảo t
 - **DimProduct**: thông tin về sản phẩm như nhà sản xuất, thương hiệu, đặc điểm bên ngoài và chi phí, giá bán cho mỗi sản phẩm
 - **DimProductCategory**: mô tả tên và key cho từng danh mục sản phẩm bao gồm: Audio, Computers, Cellphones...)
 - **DimProductSubCategory**: Phân loại sản phẩm con (được chia nhỏ hơn so với danh mục sản phẩm) bao gồm: Televisions, VCD&DVD, Accessories...
-- **DimCustomer**: thông tin nhân khẩu học của khách hàng (giới tính, thu nhập cả năm, học vấn, nghề nghiệp...) 
 - **DimPromotion**: chi tiết về từng loại giảm giá và mức giảm giá
 - **DimGeography**: thông tin địa lý theo từng quốc gia, từng vùng gắn với nơi khách hàng sinh sống
 
@@ -41,13 +40,16 @@ Xem thêm tại file [Phương pháp phân tích dữ liệu](https://github.com
 ### Insights
 
 ## Tình hình kinh doanh
-Năm 2009, doanh thu và lợi nhuận ròng Contoso đạt được lần lượt là 857,73 triệu đô và 437,91 triệu đô.
+Năm 2009, doanh thu và lợi nhuận ròng Contoso đạt được lần lượt là 857,73 triệu đô và 437,91 triệu đô. Từ quý 3/2008, doanh thu và lợi nhuận giảm mạnh và có bứt đầu hồi phục chậm vào quý 1/2009. Tuy nhiên, tình hình kinh doanh nhìn chung năm 2009 của Contoso không ổn định và có dấu hiệu tích cực. 
 
 ![{8098E5FE-E2F8-472D-8700-CD092D98418B}](https://github.com/user-attachments/assets/1dc7d28d-0c14-4766-9afd-63d21da5dfdb)
 
+Số liệu năm 2009 cho thấy 5 quốc gia đóng góp phần lớn doanh thu cho Contoso là Mỹ, Anh, Nhật, Úc và Trung Quốc. Mặc dù Nhật và Trung Quốc - 2 nước ở khu vực Đông Á có mức độ đóng góp rất nhỏ vào năm 2007 và 2008 nhưng lại tăng trưởng doanh thu mạnh mẽ vào năm 2009. Trái ngược lại là Úc có sự suy giảm rõ rệt và giảm nhẹ ở Anh vào năm 2009 so với năm trước đó.
+
 ![{9D3C5F3B-6F94-4A1D-BD14-114E0F87363A}](https://github.com/user-attachments/assets/2a857f71-399e-4c0d-be4e-4495ffed1351)
 
-![{15166663-527F-4593-9D7F-1E6E8F82FCC0}](https://github.com/user-attachments/assets/f26e5d61-f256-4e22-bf93-a9aa9de149af)
+![{D6137EF1-1343-4EFB-A9DE-6E2AB1697284}](https://github.com/user-attachments/assets/72187217-5ac3-43f7-93e0-8de301082a6d)
+
 
 ## Sản phẩm
 
