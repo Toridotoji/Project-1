@@ -40,7 +40,7 @@ Xem thêm tại file [Phương pháp phân tích dữ liệu](https://github.com
 ### Insights
 
 ## Tình hình kinh doanh
-Năm 2009, doanh thu và lợi nhuận ròng Contoso đạt được lần lượt là 857,73 triệu đô và 437,91 triệu đô. Từ quý 3/2008, doanh thu và lợi nhuận giảm mạnh và có bứt đầu hồi phục chậm vào quý 1/2009. Tuy nhiên, tình hình kinh doanh nhìn chung năm 2009 của Contoso không ổn định và có dấu hiệu tích cực. 
+Năm 2009, doanh thu và lợi nhuận ròng Contoso đạt được lần lượt là 857,73 triệu đô và 437,91 triệu đô. Từ quý 3/2008, doanh thu và lợi nhuận giảm mạnh và bắt đầu hồi phục vào quý 1/2009. Tuy nhiên, tình hình kinh doanh nhìn chung năm 2009 của Contoso không ổn định và không có dấu hiệu tích cực.
 
 ![{8098E5FE-E2F8-472D-8700-CD092D98418B}](https://github.com/user-attachments/assets/1dc7d28d-0c14-4766-9afd-63d21da5dfdb)
 
@@ -54,11 +54,19 @@ Doanh thu vào mùa giảm giá đóng góp lớn đến tổng doanh thu cả n
 
 ![{E6C6E53A-FC6F-4713-9816-0B26AAB19858}](https://github.com/user-attachments/assets/677fe477-1d6a-48ba-87ae-5894e3452cb1)
 
-Phân chia theo các khu vực là châu Âu, Bắc Mỹ và châu Á, các biểu đồ cho thấy 
+Phân chia doanh thu theo mùa kinh doanh tại các khu vực là châu Âu, Bắc Mỹ và châu Á cho thấy: tại châu Âu, doanh thu tháng vào mùa Back to School đều cao hơn so với các mùa khác nhưng vì chỉ diễn ra trong 2 tháng nên đóng góp tổng doanh thu cả năm chủ yếu đến từ mùa Holiday (diễn ra trong 4 tháng).
 
-![{1189BACC-831E-41A6-A47B-31CD686010E0}](https://github.com/user-attachments/assets/0ff9bffe-bc8f-4f9f-b50b-990217df4e3b)
-![{D22D3FC8-7E34-4FED-B249-ED52384EC8EC}](https://github.com/user-attachments/assets/c6af081d-33f7-4a85-a78c-870d20758387)
-![{6CAB8C67-2122-489B-B030-5BEB657D4629}](https://github.com/user-attachments/assets/339a373f-e4ff-4510-987d-6317e8fbe1d6)
+![{FE8EDC21-72D4-4DD4-A3C2-DB906474B06C}](https://github.com/user-attachments/assets/6caf4a38-d287-4265-beaa-0a2120108079)
+
+
+Bắc Mỹ có xu hướng ngược lại khi tổng doanh thu trong mùa Back to School chiếm ưu thế với 27,41%, trong đó tổng doanh thu Holiday xếp thấp nhất.
+
+![{4CF0E31A-8219-4BC0-9987-8F8ED15CC7D2}](https://github.com/user-attachments/assets/49a51c4e-5926-4bc4-a793-a8c3dbe8c595)
+
+Tại khu vực châu Á, thời gian không diễn ra mùa kinh doanh chiếm đến 5 tháng, do đó có sự chênh lệch khá lớn về sự đóng góp doanh thu với mùa Holiday. Mức đóng góp của các mùa có sự tỉ lệ thuận với khoảng thời gian diễn ra, khi mùa Holiday và Spring/Back to School đều diễn ra trong 3 tháng có mức tỷ trọng lần lượt là 22,5% và 22,22%.
+
+![{B318F8DD-58D2-4FB1-BB5E-0982475DF2C0}](https://github.com/user-attachments/assets/44dd46a5-bf2b-4294-882a-9ee189294f01)
+
 
 ## Sản phẩm
 
