@@ -7,7 +7,7 @@
 - [Dữ liệu](#dữ-liệu)
 - [Phân tích dữ liệu](#phân-tích-dữ-liệu)
 - [Insights](#insights)
-- [Đề xuất](#đề-xuất)
+- [Kết luận và Đề xuất](#kết-luận-và-đề-xuất)
 - [Tài liệu tham khảo](#tài-liệu-tham-khảo)
 
 ### Tổng quan dự án
@@ -48,21 +48,28 @@ Số liệu năm 2009 cho thấy 5 quốc gia đóng góp phần lớn doanh thu
 
 ![{9D3C5F3B-6F94-4A1D-BD14-114E0F87363A}](https://github.com/user-attachments/assets/2a857f71-399e-4c0d-be4e-4495ffed1351)
 
-![{D6137EF1-1343-4EFB-A9DE-6E2AB1697284}](https://github.com/user-attachments/assets/72187217-5ac3-43f7-93e0-8de301082a6d)
-
+![{7587AE31-8499-4A7B-B8E0-444E73ACFB2A}](https://github.com/user-attachments/assets/ef19312f-6d1e-4115-bdb7-37ce0cb497e3)
 
 ## Sản phẩm
 
-Sản phẩm bán chạy nhất năm 2009 là Tủ lạnh LitWare 24.7CuFt X980 (màu nâu) với doanh thu là 3,12 triệu đô, trước đó vào năm 2008 sản phẩm này cũng đứng đầu sản phẩm bán chạy nhất (màu trắng) với doanh thu là 4 triệu đô.
+Sản phẩm bán chạy nhất trong 2 năm liên tiếp (2008 - 2009) là Tủ lạnh LitWare 24.7CuFt X980 (màu nâu) với doanh thu lần lượt 4 triệu đô và 3,12 triệu đô.
+
+Năm 2009, danh mục các sản phẩm về thiết bị gia dụng chiếm đến 30,68% doanh thu cả năm, tiếp đến là các mặt hàng về máy ảnh, máy ghi hình (22,15%), máy tính (22,14%), TV (15,17%) và các danh mục còn lại chiếm tỷ trọng dưới 10%.
+
+![{67C8293D-A241-4BAB-81B6-6598D8B8F176}](https://github.com/user-attachments/assets/2dbb0ec1-c927-4676-8565-1e699026a149)
+
+Doanh thu vào mùa giảm giá đóng góp lớn đến tổng doanh thu cả năm, trong đó mức giảm giá 10% và 20% kích thích doanh thu mạnh mẽ.
 
 ![{E6C6E53A-FC6F-4713-9816-0B26AAB19858}](https://github.com/user-attachments/assets/677fe477-1d6a-48ba-87ae-5894e3452cb1)
 
-**Phân tích theo nguyên tắc 80/20**
-Danh mục con này chủ yếu đến từ danh mục sản phẩm "Home Appliances"
+Trong các danh mục con đóng góp đến 80% tổng doanh thu năm 2009 thì có gần một nửa (7/16) là thuộc về danh mục sản phẩm Thiết bị gia dụng.
 
 ![{A1074CB3-0468-4BFF-8B89-485D6EA2AF3D}](https://github.com/user-attachments/assets/83ba22d2-8ee8-483d-9d62-0ff3f42c7122)
 
+### Kết luận và Đề xuất
 
-### Đề xuất
+- Danh mục sản phẩm Thiết bị gia dụng chiếm tỷ trọng doanh thu lớn nên được coi là danh mục chiến lược của Contoso. Do đó, cần đẩy mạnh doanh số các mặt hàng trong danh mục này nhằm tăng doanh thu và lợi nhuận.
+- Áp dụng các mức ưu đãi 10% và 20% trong các hoạt động xúc tiến bán để tăng doanh thu.
+- 
 
 ### Tài liệu tham khảo
