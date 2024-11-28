@@ -54,7 +54,7 @@ Doanh thu vào mùa giảm giá đóng góp lớn đến tổng doanh thu cả n
 
 ![{E6C6E53A-FC6F-4713-9816-0B26AAB19858}](https://github.com/user-attachments/assets/677fe477-1d6a-48ba-87ae-5894e3452cb1)
 
-Phân chia doanh thu theo mùa kinh doanh tại các khu vực là châu Âu, Bắc Mỹ và châu Á cho thấy: tại châu Âu, doanh thu tháng vào mùa Back to School đều cao hơn so với các mùa khác nhưng vì chỉ diễn ra trong 2 tháng nên đóng góp tổng doanh thu cả năm chủ yếu đến từ mùa Holiday (diễn ra trong 4 tháng).
+**Phân chia doanh thu theo mùa kinh doanh** tại các khu vực là châu Âu, Bắc Mỹ và châu Á cho thấy: tại châu Âu, doanh thu tháng vào mùa Back to School đều cao hơn so với các mùa khác nhưng vì chỉ diễn ra trong 2 tháng nên đóng góp tổng doanh thu cả năm chủ yếu đến từ mùa Holiday (diễn ra trong 4 tháng).
 
 ![{FE8EDC21-72D4-4DD4-A3C2-DB906474B06C}](https://github.com/user-attachments/assets/6caf4a38-d287-4265-beaa-0a2120108079)
 
@@ -66,6 +66,8 @@ Bắc Mỹ có xu hướng ngược lại khi tổng doanh thu trong mùa Back t
 Tại khu vực châu Á, thời gian không diễn ra mùa kinh doanh chiếm đến 5 tháng, do đó có sự chênh lệch khá lớn về sự đóng góp doanh thu với mùa Holiday. Mức đóng góp của các mùa có sự tỉ lệ thuận với khoảng thời gian diễn ra, khi mùa Holiday và Spring/Back to School đều diễn ra trong 3 tháng có mức tỷ trọng lần lượt là 22,5% và 22,22%.
 
 ![{B318F8DD-58D2-4FB1-BB5E-0982475DF2C0}](https://github.com/user-attachments/assets/44dd46a5-bf2b-4294-882a-9ee189294f01)
+
+Điểm chung của 3 khu vực trên là doanh thu đều tăng vào các tháng giữa năm, từ tháng 5 đến tháng 7.
 
 
 ## Sản phẩm
@@ -82,8 +84,6 @@ Trong các danh mục con đóng góp đến 80% tổng doanh thu năm 2009 thì
 
 ### Kết luận và Đề xuất
 
-- Áp dụng các chiến lược khác nhau cho từng khu vực: 
+- Áp dụng các chiến lược khác nhau cho từng khu vực: thúc đẩy các hoạt động marketing nhằm tăng doanh thu vào mùa Holiday tại châu Âu, Back to School tại Bắc Mỹ và mùa Holiday, Spring/Back to School tại châu Á.
 - Áp dụng các mức ưu đãi 10% và 20% trong các hoạt động xúc tiến bán để tăng doanh thu.
 - Danh mục sản phẩm Thiết bị gia dụng chiếm tỷ trọng doanh thu lớn nên được coi là danh mục chiến lược của Contoso. Do đó, cần đẩy mạnh doanh số các mặt hàng trong danh mục này nhằm tăng doanh thu và lợi nhuận.
-
-### Tài liệu tham khảo
