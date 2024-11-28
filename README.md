@@ -44,11 +44,21 @@ Năm 2009, doanh thu và lợi nhuận ròng Contoso đạt được lần lư�
 
 ![{8098E5FE-E2F8-472D-8700-CD092D98418B}](https://github.com/user-attachments/assets/1dc7d28d-0c14-4766-9afd-63d21da5dfdb)
 
-Số liệu năm 2009 cho thấy 5 quốc gia đóng góp phần lớn doanh thu cho Contoso là Mỹ, Anh, Nhật, Úc và Trung Quốc. Mặc dù Nhật và Trung Quốc - 2 nước ở khu vực Đông Á có mức độ đóng góp rất nhỏ vào năm 2007 và 2008 nhưng lại tăng trưởng doanh thu mạnh mẽ vào năm 2009. Trái ngược lại là Úc có sự suy giảm rõ rệt và giảm nhẹ ở Anh vào năm 2009 so với năm trước đó.
+Số liệu năm 2009 cho thấy 5 quốc gia đóng góp phần lớn doanh thu cho Contoso là Mỹ, Anh, Nhật, Úc và Trung Quốc. Mặc dù Nhật và Trung Quốc - 2 nước ở khu vực châu Á có mức độ đóng góp rất nhỏ vào năm 2007 và 2008 nhưng lại tăng trưởng doanh thu mạnh mẽ vào năm 2009. Trái ngược lại là Úc có sự suy giảm rõ rệt và giảm nhẹ ở Anh vào năm 2009 so với năm trước đó.
 
 ![{9D3C5F3B-6F94-4A1D-BD14-114E0F87363A}](https://github.com/user-attachments/assets/2a857f71-399e-4c0d-be4e-4495ffed1351)
 
 ![{7587AE31-8499-4A7B-B8E0-444E73ACFB2A}](https://github.com/user-attachments/assets/ef19312f-6d1e-4115-bdb7-37ce0cb497e3)
+
+Doanh thu vào mùa giảm giá đóng góp lớn đến tổng doanh thu cả năm, trong đó mức giảm giá 10% và 20% kích thích doanh thu mạnh mẽ.
+
+![{E6C6E53A-FC6F-4713-9816-0B26AAB19858}](https://github.com/user-attachments/assets/677fe477-1d6a-48ba-87ae-5894e3452cb1)
+
+Phân chia theo các khu vực là châu Âu, Bắc Mỹ và châu Á, các biểu đồ cho thấy 
+
+![{1189BACC-831E-41A6-A47B-31CD686010E0}](https://github.com/user-attachments/assets/0ff9bffe-bc8f-4f9f-b50b-990217df4e3b)
+![{D22D3FC8-7E34-4FED-B249-ED52384EC8EC}](https://github.com/user-attachments/assets/c6af081d-33f7-4a85-a78c-870d20758387)
+![{6CAB8C67-2122-489B-B030-5BEB657D4629}](https://github.com/user-attachments/assets/339a373f-e4ff-4510-987d-6317e8fbe1d6)
 
 ## Sản phẩm
 
@@ -58,18 +68,14 @@ Năm 2009, danh mục các sản phẩm về thiết bị gia dụng chiếm đ�
 
 ![{67C8293D-A241-4BAB-81B6-6598D8B8F176}](https://github.com/user-attachments/assets/2dbb0ec1-c927-4676-8565-1e699026a149)
 
-Doanh thu vào mùa giảm giá đóng góp lớn đến tổng doanh thu cả năm, trong đó mức giảm giá 10% và 20% kích thích doanh thu mạnh mẽ.
-
-![{E6C6E53A-FC6F-4713-9816-0B26AAB19858}](https://github.com/user-attachments/assets/677fe477-1d6a-48ba-87ae-5894e3452cb1)
-
 Trong các danh mục con đóng góp đến 80% tổng doanh thu năm 2009 thì có gần một nửa (7/16) là thuộc về danh mục sản phẩm Thiết bị gia dụng.
 
 ![{A1074CB3-0468-4BFF-8B89-485D6EA2AF3D}](https://github.com/user-attachments/assets/83ba22d2-8ee8-483d-9d62-0ff3f42c7122)
 
 ### Kết luận và Đề xuất
 
-- Danh mục sản phẩm Thiết bị gia dụng chiếm tỷ trọng doanh thu lớn nên được coi là danh mục chiến lược của Contoso. Do đó, cần đẩy mạnh doanh số các mặt hàng trong danh mục này nhằm tăng doanh thu và lợi nhuận.
+- Áp dụng các chiến lược khác nhau cho từng khu vực: 
 - Áp dụng các mức ưu đãi 10% và 20% trong các hoạt động xúc tiến bán để tăng doanh thu.
-- 
+- Danh mục sản phẩm Thiết bị gia dụng chiếm tỷ trọng doanh thu lớn nên được coi là danh mục chiến lược của Contoso. Do đó, cần đẩy mạnh doanh số các mặt hàng trong danh mục này nhằm tăng doanh thu và lợi nhuận.
 
 ### Tài liệu tham khảo
